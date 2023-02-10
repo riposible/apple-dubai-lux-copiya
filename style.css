@@ -1,0 +1,346 @@
+.iphone-14{
+    background-color: black;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.name{
+    color: white;
+}
+.pro{
+    color: white;
+}
+.background{
+    background-color: #fafafa;
+}
+.Watch{
+    background-color: rgb(0, 0, 0);
+}
+
+.text{
+    color: white;
+}
+.color{
+    color: red;
+}
+.class{
+    color: white;
+}
+.QWEA{
+    color: orangered;
+}
+.ASDFA{
+    color: red;
+
+}
+.zszszs{
+    background-color: white;
+}
+.asasa{
+    color: black;
+}
+.classs{
+    color:black;
+}
+.qazwsx{
+    background-color: rgb(128, 0, 0);
+}
+.word{
+    color: white;
+}
+.world{
+color: white;
+}
+.bbbbb{
+    color: white;
+}
+.ggggg{
+    background: gray;
+    display: fixed;
+    top: 0;
+    left: 0;
+}
+.errrrrrrr{
+    background-color: rgb(66, 66, 66);
+}
+.QWEAr{
+    color: black;
+
+}
+.imgcon {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.zszszs {
+    width: 50%;
+    justify-self: center;
+    align-self: center;
+}
+.imgcon1{
+    width:100% ;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+.zszszsz{
+    width: 50% ;
+    justify-self:center;
+    align-self: center;
+
+
+}
+.zszszsz{
+    background-color: black;
+}
+.asasaa{
+    color: white;
+}
+.QWEArty{
+    color: white;
+}
+.zszszszs {
+    width: 50%;
+}
+.ggggg{
+    background-color: black;
+}
+.asasas{
+    color: white;
+}
+.asasassasasasasa{
+    color: white;
+}
+.fffffff{
+    background-color: #fafafa;
+}
+.muxish{
+    color: rgb(0, 0, 0);
+}
+.qwqwwq{
+    color: rgb(0, 0, 0);
+}
+.right{
+    color: white;
+}
+.brejhb{
+    color: white;
+}
+.hbnlf{
+    background-color: black ;
+}
+.dfhvbl{
+    color: white;
+}
+.kjnlg{
+    color: gray;
+}
+.qwqwwq{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: gold;
+    border-radius: 6px;
+    width: 150px;
+    transform: translate(1050px , 20px);
+    transition: all 0.5s ease;
+   
+}
+
+.qwqwwq:hover{
+    transform: translateY(-5x); 
+    background-color: white;
+
+    color: rgb(255, 255, 255);
+     cursor: pointer; 
+}
+
+
+.order{
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: white;
+    border-radius: 6px;
+    width: 150px;
+
+}
+.order:hover{
+    transform: translateY(-5x);
+    color: gold    ;
+    cursor: pointer;
+}
+.hvbfgk{
+    background-color: gray;
+}
+.hjvf{
+    color: white;
+}
+.gibfgjfbn{
+    color: white;
+}
+.jhrtgb{
+    color: white;
+}
+.tetetetettetete{
+    font-size: 100px;
+}
+.black{
+    color: rgb(0, 0, 0);
+}
+.lbnngmj{
+    color: rgb(255, 255, 255);
+}
+.aaaa{
+color:#717278 ;
+;
+}
+.bbbb{
+    color:#717278;
+    font-size: 80px;
+}
+.cccc{
+color:#717278;
+font-size: 80px;
+}
+.njnjnjnjnj{
+    background-color: black;
+}
+.dddd{
+    color:#717278;
+
+   
+}
+.eeee{
+    color: white;
+}
+.ffff{
+    color: gray;
+}
+.muxish{
+    font-size: 80px;
+}
+.fffffff{
+    font-size: 30px;
+}
+.qwqwqwqwqwq{           
+    width: 60px;
+    height: 60px;
+}
+.inpuy{
+    width: 30   0px;
+    height: 30px;
+}
+.zz{
+    color: white;
+    font-size: 70px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.zzz{
+    color: white;
+}
+.zzzz{
+    color: gray;
+}
+body{
+    font-family: 'Manseraat', sans-serif;
+}
+.asdfghjk{
+    margin-top: -150px; 
+}
+
+@media screen and (max-width: 1100px) { 
+    
+}
+.vvvv{
+    font-size: 50px;
+}
+.asdfghjk{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.qwertyu{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.asdfgh{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.zxcvbnm{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.bvfhjd{
+    width: 50%;
+    height: auto;
+    margin-top: 1px;
+}
+.cvfdsxcvfres{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.qwerfgvcserf{
+    width: 50%;
+    height: auto;
+    margin-top: 1px;
+}
+.dbvhgkdf{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.responsive1{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.bgcolor{
+    background-color:rgb(235, 235, 235);
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.asdfgtryuiytrtr{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.asdfghjkllkjhgfds{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.vagernate{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.asasasasasasasasasasasasasasa{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+.qwqwwq{
+    width: 100%;
+    height: auto;
+    margin-top: 1px;
+}
+video {
+    width: 100%;
+    height: auto;
+  }
